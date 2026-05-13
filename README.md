@@ -7,6 +7,7 @@ Repositorio de ejercicios de **Software Design & Architecture** (Holberton).
 | Task | Descripción | Archivo |
 |------|-------------|---------|
 | 0 | Factory: extender registro con `Scooter` (Open/Closed) | `design_patterns/0-factory.py` |
+| 1 | Observer: `SmsObserver` solo tópico `breaking` | `design_patterns/1-observer.py` |
 
 ## Introduction to UML Modeling
 
