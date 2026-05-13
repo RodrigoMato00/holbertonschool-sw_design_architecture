@@ -6,7 +6,7 @@ classDiagram
     }
 
     class Book {
-        str title
+        +str title
         str author
         bool state
         mark_as_unavailable()
@@ -19,7 +19,7 @@ classDiagram
     }
 
     class Loan {
-        date start_date
+        +date start_date
         date end_date
         close_loan()
     }
