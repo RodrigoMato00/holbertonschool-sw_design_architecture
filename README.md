@@ -2,6 +2,12 @@
 
 Repositorio de ejercicios de **Software Design & Architecture** (Holberton).
 
+## Introduction to Design Patterns with Python
+
+| Task | Descripción | Archivo |
+|------|-------------|---------|
+| 0 | Factory: extender registro con `Scooter` (Open/Closed) | `design_patterns/0-factory.py` |
+
 ## Introduction to UML Modeling
 
 | Task | Descripción | Archivo |
