@@ -8,6 +8,7 @@ Repositorio de ejercicios de **Software Design & Architecture** (Holberton).
 |------|-------------|---------|
 | 0 | Factory: extender registro con `Scooter` (Open/Closed) | `design_patterns/0-factory.py` |
 | 1 | Observer: `SmsObserver` solo tópico `breaking` | `design_patterns/1-observer.py` |
+| 2 | Decorator: `CaramelDecorator` (+15¢, `+ caramel`) | `design_patterns/2-decorator.py` |
 
 ## Introduction to UML Modeling
 
